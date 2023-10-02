@@ -1,3 +1,9 @@
+#### Name: [ADITYA GUPTA](https://github.com/aditya3492gupta)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: I am an engineering student from ABES Engineering College, Ghaziabad, and pursuing my B.Tech with Computer Science and Engineering with specialization in Data Science.
+- GitHub: [aditya3492gupta](https://github.com/aditya3492gupta)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
